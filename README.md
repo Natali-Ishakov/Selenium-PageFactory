@@ -7,7 +7,7 @@ UI test automation for [demoblaze.com](https://www.demoblaze.com) using Java, Se
 - Java 21
 - Maven
 - Selenium WebDriver 4.20.0
-- JUnit 4.13.1
+- JUnit 5.8.1
 - WebDriverManager
 
 ## 🗂️ Project Structure
