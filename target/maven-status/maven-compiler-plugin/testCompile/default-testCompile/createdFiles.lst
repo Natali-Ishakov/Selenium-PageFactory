@@ -1,0 +1,5 @@
+tests/CartTests.class
+tests/BaseTest.class
+tests/LoginTests.class
+tests/HomeTest.class
+tests/SignUpTests.class
